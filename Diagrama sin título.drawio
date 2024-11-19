@@ -58,6 +58,11 @@
         <mxCell id="c5kWWeNSlwgAFax96fd--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c5kWWeNSlwgAFax96fd--15" target="c5kWWeNSlwgAFax96fd--23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="c5kWWeNSlwgAFax96fd--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c5kWWeNSlwgAFax96fd--15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="c5kWWeNSlwgAFax96fd--15" value="Tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -126,6 +131,9 @@
         </mxCell>
         <mxCell id="c5kWWeNSlwgAFax96fd--45" value="Organizacion" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="490" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c5kWWeNSlwgAFax96fd--48" value="Eras temporales" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="140" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
