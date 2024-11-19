@@ -1,0 +1,2 @@
+# EntidadRelacionCosmere
+Entidad Relacion Cosmere
